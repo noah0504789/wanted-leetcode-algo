@@ -1,6 +1,5 @@
-package org.example.week2;
+package org.example.week1_2;
 
-import java.util.function.IntFunction;
 import java.util.function.IntPredicate;
 
 // 출처 : https://leetcode.com/problems/valid-palindrome/?envType=study-plan-v2&envId=top-interview-150

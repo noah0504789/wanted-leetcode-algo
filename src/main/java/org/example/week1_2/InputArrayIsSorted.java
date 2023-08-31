@@ -1,4 +1,4 @@
-package org.example.week2;
+package org.example.week1_2;
 
 public class InputArrayIsSorted {
     public static void main(String[] args) {

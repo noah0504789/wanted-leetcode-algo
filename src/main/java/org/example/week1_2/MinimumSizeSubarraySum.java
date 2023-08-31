@@ -1,4 +1,4 @@
-package org.example.week2;
+package org.example.week1_2;
 
 // 출처 : https://leetcode.com/problems/minimum-size-subarray-sum/?envType=study-plan-v2&envId=top-interview-150
 public class MinimumSizeSubarraySum {

@@ -1,4 +1,4 @@
-package org.example.week1;
+package org.example.week1_1;
 
 // 문제 : https://leetcode.com/problems/remove-element/
 public class RemoteElement {

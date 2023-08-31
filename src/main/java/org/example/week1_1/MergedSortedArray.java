@@ -1,4 +1,4 @@
-package org.example.week1;
+package org.example.week1_1;
 
 //  https://leetcode.com/problems/merge-sorted-array/description/
 public class MergedSortedArray {

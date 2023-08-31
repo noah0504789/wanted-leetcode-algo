@@ -1,4 +1,4 @@
-package org.example.week2;
+package org.example.week1_2;
 
 import java.util.HashSet;
 import java.util.Set;
